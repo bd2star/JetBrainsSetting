@@ -1,10 +1,13 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="203" type="docker">
       <configuration>
-        <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
-        <option name="certificatesPath" />
-        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="ba9ad12d-f39d-400d-9439-ce8586b153cc" />
+        <option name="apiUrl" value="tcp://192.168.1.203:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="130" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://192.168.1.130:2375" />
       </configuration>
     </remote-server>
   </component>
