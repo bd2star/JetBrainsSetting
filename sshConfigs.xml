@@ -2,10 +2,10 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="192.168.1.130" id="ba9ad12d-f39d-400d-9439-ce8586b153cc" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" host="111.26.175.103" id="970a420e-a6f1-4692-b6a2-9b0ac2b694b8" port="2020" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig authType="PASSWORD" host="111.26.175.103" id="a3326fdf-40e3-44b6-b47a-26af68662341" port="2020" customName="吉大开发服务器" nameFormat="CUSTOM" username="root">
         <option name="customName" value="吉大开发服务器" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.1.203" id="b7d34412-3def-4e04-a862-2ff222e03bb6" port="22" nameFormat="DESCRIPTIVE" username="zhangbaoxing" />
     </configs>
   </component>
 </application>
