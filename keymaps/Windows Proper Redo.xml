@@ -8,6 +8,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
+  <action id="EasyClick.Run.Project">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="ExpandTreeNode" />
   <action id="Graph.ZoomIn">
