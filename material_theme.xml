@@ -2,7 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="premium" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="5294e2" />
+    <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="-430fd73d:181d668d2ae:-8000" />
     <option name="version" value="6.9.1" />
   </component>
