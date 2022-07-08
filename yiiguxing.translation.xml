@@ -28,4 +28,7 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1657169931360" />
   </component>
+  <component name="Settings">
+    <option name="showWordsOnStartup" value="true" />
+  </component>
 </application>
