@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="691" />
     <option name="newTranslationDialogY" value="156" />
     <histories>
+      <item value="release" />
+      <item value="This node has already set status asking a release to signal it, so it can safely park." />
       <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
       <item value="NORM PRIORITY" />
       <item value="setup to use Unsafe.compareAndSwapInt for updates" />
@@ -37,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
       </map>
     </option>
   </component>
