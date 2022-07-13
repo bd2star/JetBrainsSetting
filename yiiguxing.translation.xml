@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="691" />
     <option name="newTranslationDialogY" value="156" />
     <histories>
+      <item value="NORM PRIORITY" />
+      <item value="setup to use Unsafe.compareAndSwapInt for updates" />
+      <item value="Returns a default thread factory used to create new threads. This factory creates all new threads used by an Executor in the same {@link ThreadGroup}. If there is a {@link java.lang.SecurityManager}, it uses the group of {@link SystemgetSecurityManager}, else the group of the thread invoking this {@code defaultThreadFactory} method. Each new thread is created as a non-daemon thread with priority set to the smaller of {@code Thread.NORM_PRIORITY} and the maximum priority permitted in the thread group. New threads have names accessible via {@link ThreadgetName} of &lt;em&gt;pool-N-thread-M&lt;em&gt;, where &lt;em&gt;N&lt;em&gt; is the sequence number of this factory, and &lt;em&gt;M&lt;em&gt; is the sequence number of the thread created by this factory. @return a thread factory" />
       <item value="nanosecond timeout value out of range" />
       <item value="timeout value is negative" />
       <item value="priority" />
@@ -33,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
