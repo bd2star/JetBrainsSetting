@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="691" />
     <option name="newTranslationDialogY" value="156" />
     <histories>
+      <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
       <item value="NORM PRIORITY" />
       <item value="setup to use Unsafe.compareAndSwapInt for updates" />
       <item value="Returns a default thread factory used to create new threads. This factory creates all new threads used by an Executor in the same {@link ThreadGroup}. If there is a {@link java.lang.SecurityManager}, it uses the group of {@link SystemgetSecurityManager}, else the group of the thread invoking this {@code defaultThreadFactory} method. Each new thread is created as a non-daemon thread with priority set to the smaller of {@code Thread.NORM_PRIORITY} and the maximum priority permitted in the thread group. New threads have names accessible via {@link ThreadgetName} of &lt;em&gt;pool-N-thread-M&lt;em&gt;, where &lt;em&gt;N&lt;em&gt; is the sequence number of this factory, and &lt;em&gt;M&lt;em&gt; is the sequence number of the thread created by this factory. @return a thread factory" />
@@ -36,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
