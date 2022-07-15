@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="691" />
     <option name="newTranslationDialogY" value="156" />
     <histories>
+      <item value="is Ambiguous" />
       <item value="Declared" />
       <item value="conditions" />
       <item value="Coverage" />
@@ -54,12 +55,11 @@
       <item value="untreeify threshold" />
       <item value="treeify threshold" />
       <item value="default initial capacity" />
-      <item value="maximum capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>
