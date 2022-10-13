@@ -5,6 +5,7 @@
       <mapping pattern="crontab" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile1" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile2" type="AUTO_DETECTED" />
+      <mapping pattern="0WHERE" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
