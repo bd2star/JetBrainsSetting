@@ -13,9 +13,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorMoveToPageBottom" />
   <action id="ExpandTreeNode" />
   <action id="Graph.ZoomIn">
     <keyboard-shortcut first-keystroke="equals" />
+  </action>
+  <action id="cn.wind.action.NextAction">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="cn.wind.action.NextLineAction">
     <keyboard-shortcut first-keystroke="ctrl 3" />
